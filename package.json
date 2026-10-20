@@ -1,0 +1,25 @@
+{
+  "name": "parraghpeter_tz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParPet13/ParraghPeter_TZ.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ParPet13/ParraghPeter_TZ/issues"
+  },
+  "homepage": "https://github.com/ParPet13/ParraghPeter_TZ#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "mysql2": "^3.24.6"
+  }
+}
